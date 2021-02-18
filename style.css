@@ -1,0 +1,40 @@
+
+h1{
+    color:brown;
+    border : 1px solid;
+}
+
+.header{
+    background-color: aquamarine;
+    display : flex;
+    justify-content: center;
+}
+.para{
+    background-color: chocolate;
+    text-align: center;
+}
+.car{
+    background-color: coral;
+    display:flex;
+    justify-content: center;
+}
+.trex{
+    background-color: darkgoldenrod;
+    display:flex;
+    justify-content: center;
+}
+.bird{
+    background-color: darksalmon;
+    display: flex;
+    justify-content: center;
+}
+.ping{
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+}
+.social{
+    background-color:lightsteelblue;
+    display: flex;
+    justify-content:center;
+}
